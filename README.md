@@ -9,6 +9,14 @@ found [here](https://github.com/kittoframework/kitto).
 
 Install the archive
 
+### Latest
+
+```shell
+mix archive.install https://github.com/kittoframework/archives/raw/master/kitto_new.ez
+```
+
+### Specific version
+
 ```shell
 mix archive.install https://github.com/kittoframework/archives/raw/master/kitto_new-0.0.2.ez
 ```
