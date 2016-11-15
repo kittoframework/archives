@@ -12,7 +12,7 @@ Install the archive
 ### Latest
 
 ```shell
-mix archive.install https://github.com/kittoframework/archives/raw/master/kitto_new-0.2.1.ez
+mix archive.install https://github.com/kittoframework/archives/raw/master/kitto_new-0.2.3.ez
 ```
 
 ### Specific version
